@@ -1,4 +1,4 @@
-/*package com.application.springMvc.config;
+package com.application.springMvc.config;
 
 import org.springframework.web.WebApplicationInitializer;
 import org.springframework.web.context.support.XmlWebApplicationContext;
@@ -16,4 +16,4 @@ public class MyWebApplicationInitializer implements WebApplicationInitializer {
         registration.setLoadOnStartup(1);
         registration.addMapping("/");
     }
-}*/
+}
